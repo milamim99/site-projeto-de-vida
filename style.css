@@ -60,6 +60,10 @@ body {
     display: block;
 }
 
+
+.ativo{
+background-color:var(--botao-ativo);
+border-botton:4px solid var(--verde);
 @media screen and (min-Width:  78px) {
     .botoes {
           display:flex;
