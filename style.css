@@ -61,7 +61,7 @@ body {
 }
 
 
-.ativo{
+.botao.ativo{
 background-color:var(--botao-ativo);
 border-botton:4px solid var(--verde);
 @media screen and (min-Width:  78px) {
@@ -75,3 +75,30 @@ border-botton:4px solid var(--verde);
         border-radius:0 40px 0 0;
         }
    }
+
+ .aba-conteudo  {
+       display:  none;
+ }
+
+.aba-conteudo-titulo-principal  {
+   font-size:  28px;
+   text-align; center;
+ }
+
+  .aba-conteudo-titulo-secundario {
+      text-align:  center;
+      color:  var(--verde);
+      text-transform:  uppercase;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
